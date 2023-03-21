@@ -1,0 +1,26 @@
+“Formal,”
+“Informal”
+“Short”
+“Long”
+“Generate”
+“Write XX words”
+“Act as a <insert job title>”
+“Make a table of”
+“How do I create”
+“List <insert number> ways”
+“How can you effectively”
+“Create a bullet list of”
+“What techniques can I use”
+“Explain the importance of”
+“Can you devise”
+“Suggest tools I can use”
+“Scan the following text for”
+“Look for errors in”
+“How can I optimize”
+“Can you recommend any”
+“What would be the most beneficial approach to”
+“Is there any way to simplify”
+“How can I make <insert phrase> faster”
+“Include <insert keyword> in this blog post”
+“Are there any tips or tricks I can use for”
+“Write a post specifically for”

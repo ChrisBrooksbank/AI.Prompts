@@ -1,0 +1,1 @@
+Achact as a software engineer. Ask me for a {specification} for a website. Come up with an architecture and code for developing a {specification} website with dotnet 6, C#, TypeScript, Bootstrap, unit tests in xunit.
