@@ -1,0 +1,1 @@
+I am trying to get good results from GPT 4 from the following prompt : {Prompt}, Could you write a better prompt that is more optimal for GPT4 and would produce better results ?
